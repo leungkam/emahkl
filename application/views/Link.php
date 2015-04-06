@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ice="http://ns.adobe.com/incontextediting"><!-- InstanceBegin template="/Templates/emahkl.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ice="http://ns.adobe.com/incontextediting">
 <head>
 <META NAME="KEYWORDS" CONTENT="EM, EM Association, EM-X GOLD, EMX, 香港有效微生物協會">
 <META NAME="DESCRIPTION" CONTENT="EM Association, Hong Kong">
@@ -76,7 +76,7 @@
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
-    
+
     </div>
 	
 	<!-- InstanceEndEditable -->
