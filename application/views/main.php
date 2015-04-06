@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ice="http://ns.adobe.com/incontextediting"><!-- InstanceBegin template="/Templates/emahkl.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ice="http://ns.adobe.com/incontextediting">
 <head>
     <META NAME="KEYWORDS" CONTENT="EM, EM Association, EM-X GOLD, EMX, 香港有效微生物協會">
     <META NAME="DESCRIPTION" CONTENT="EM Association, Hong Kong">
@@ -30,18 +30,18 @@
     <div id="header"><!-- Header starts here -->
         <div class="menu">
             <ul id="menu">
-                <li class="home"><a href="index.html">主頁</a></li>
-                <li class="about"><a href="#"> EM 生活</a></li>
-                <li class="products"><a href="products-emx-gold.html">EM 產品總覽</a></li>
-                <li class="contact"><a href="#">關於我們</a></li>
-                <li class="contact"><a href="#">連結</a></li>
+                <li class="home"><a href="Welcome">主頁</a></li>
+                <li class="about"><a href="Usage"> EM 生活</a></li>
+                <li class="products"><a href="Product">EM 產品總覽</a></li>
+                <li class="contact"><a href="Welcome">關於我們</a></li>
+                <li class="contact"><a href="Link">連結</a></li>
             </ul>
         </div>
         <div class="subs" align="right">
             <p>訂閱: <a href="#"> <img src="./images/rss.png" alt="" /></a><a href="http://www.facebook.com/emahkltd" target="new"><img src="./images/facebook.png" alt="" /></a></p>
         </div>
         <div class="subs_2" align="right">
-            <p align="right"><a href="index.html">繁體</a> / <a href="index_e.html">ENGLISH</a></p>
+            <p align="right"><a href="Welcome">繁體</a> / <a href="Welcome">ENGLISH</a></p>
         </div>
 
     </div><!-- Header ends here -->
@@ -60,7 +60,7 @@
                 <p>&nbsp;</p>
                 <p>本公司為 EM-X Gold 在香港唯一之註冊經銷商，提防假冒。</p>
                 <p>
-                    <a href="products-emx-gold.html"><input type="button" value="產品總覽" class="view" /></a>
+                    <a href="Product"><input type="button" value="產品總覽" class="view" /></a>
                 </p>
                 <p>&nbsp;</p>
                 <div class="clear"></div>

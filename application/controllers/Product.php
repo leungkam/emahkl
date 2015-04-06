@@ -20,15 +20,21 @@ class Product extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('Product');
-	}
+        $this->load->view('Product');
+        if(isset($_GET["pid"])) {
+            if ($_GET["pid"] == 1)
+                echo "pid is set\n";
+        }
+        //if (isset($_GET["$pid"])
+    }
 
-    /*
-    public function shoes($sandals, $id)
-	{
-		echo $sandals;
-		echo '<br>';
-		echo $id;
-	}
-	*/
+
+        /*
+                    public function pid($sandals, $pid)
+                {
+                    echo $sandals;
+                    echo '<br>';
+                    echo $id;
+                }
+                */
 }
