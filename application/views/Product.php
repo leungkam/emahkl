@@ -11,18 +11,8 @@
 <!-- EM Association, Hong Kong -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>EM Association (H.K.) LTD  香港有效微生物協會有限公司</title>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="./css/style.css" rel="stylesheet" type="text/css" />
 <script src="includes/ice/ice.js" type="text/javascript"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-932534-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
 </head>
 
 <body>
@@ -38,7 +28,7 @@
     	</ul>
     </div>
     <div class="subs" align="right">
-   	  <p>訂閱: <a href="#"> <img src="images/rss.png" alt="" /></a><a href="http://www.facebook.com/emahkltd" target="new"><img src="images/facebook.png" alt="" /></a></p>
+   	  <p>訂閱: <a href="#"> <img src="./images/rss.png" alt="" /></a><a href="http://www.facebook.com/emahkltd" target="new"><img src="./images/facebook.png" alt="" /></a></p>
     </div>
     <div class="subs_2" align="right">
    	  <p align="right"><a href="index.html">繁體</a> / <a href="index_e.html">ENGLISH</a></p>
@@ -53,7 +43,7 @@
 <!-- InstanceBeginRepeat name="RepeatRegion1" --><!-- InstanceBeginRepeatEntry -->
 	<div class="welcomeHolder">
     <div class="welcome">
-      <h1>觀迎來到 &quot;EM Association, Hong Kong&quot;<img src="images/img07.jpg"/><img src="images/Logo_dist.JPG" width="74" height="96" /></h1>
+      <h1>觀迎來到 &quot;EM Association, Hong Kong&quot;<img src="./images/img07.jpg"/><img src="./images/Logo_dist.JPG" width="74" height="96" /></h1>
         <p>&quot;香港有效微生物協會有限公司&quot; 是香港唯一之 EM 產品總代理。</p>
         <p>&nbsp;</p>
         <p>EM 的用途及產品繁多，當中最受觀迎之產品為 EM-X Gold 健康飲品。 </p>
@@ -69,17 +59,50 @@
     
     <!-- InstanceBeginEditable name="EditRegion1" -->
 	
-	<div class="heading">EM 簡介</div>
+	<div class="heading">產品總覽 - EM-X Gold 飲料水</div>
     <div class="welcome">
-              <h1>何謂「EM」?</h1>
-              <p>「EM」為「Effective Microorganisms」中譯為有效微生物之簡稱，其為1985年日本國立琉球大學比嘉照夫教授在經迥長時間的精心篩選後，從2000多種細菌中選出了以乳酸菌、酵母菌、真菌、放線菌、光合成菌為主的總共10屬80多種對植物、動物和人類有益無害的細菌，把它們組合成一組成夠共生並互合作的有效微生物群。</p>
-              <p>不同種類之微生物為了自己的生存而分泌和釋放不同的物質或代謝產物。這些物質通常可以抑制其他微生物的生長。因此不同種類微生物的共生一直以來都是微生物領域中的一個難題。所以目前有關微生物的應用多為單一菌種的應用。</p>
-              <p>EM含有10屬80多種有效微生物(包括厭氣菌和好氧菌)，因此如何讓它們共生是EM技術的關鍵問題，比嘉教授通過引入光合成菌等技術初步解決了這個問題。</p>
-              <p>光合成菌有非常獨特的能量利用系統，在沒有化學能的狀態下能直接利用光和熱，所以能在厭氧和好氧的狀態下生存。在兩種條件中都能利用光和熱能分解有機物質，製成糖分，從而消除了某一種微生物的分泌物或代謝產物對另一種微生物的毒性，同時給其他的微生物提供了營養物質，營造出不同種類微生物的共生環境。</p>
-              <p>每種有效微生物都有自己的反應系統。例如: 乳酸菌能將蛋白質分解成氨基酸，同時分泌乳酸，抑制有害細菌的繁殖；酵母菌能分解澱粉和蛋白質；真菌能分泌多種有益的生物活性物質；放線菌能抑制有害微生物的繁殖；光合成菌能利用代謝癈物製成營養物質以及分解有害的有機物等。EM含有80多種有用微生物，是一個龐大的有用微生物反應系統，因此對植物、動物和人類具有多方面的功效和強大的抗氧化能力。</p>
-              <p>自從EM技術誕生以來，已經在世界近百個國家地區的醫療衛生、食品加工、環境保護、農畜牧業等方面加以應用，並收到了良好的效益。</p>
-                <p>&nbsp;</p>
-        </div>
+              <p><img src="./images/emx-gold.JPG" width="192" height="338" /></p>
+              <p>&nbsp;</p>
+              <p>產品名稱：EM-X Gold 飲料水<br />
+              </p>
+              <p>&nbsp;</p>
+              <p>使用說明：　<br />
+                EM-X Gold 可直接飲用或加在茶，水，咖啡或果汁中飲用。<br />
+                建議 10-33 cc　(ml)<br />
+              </p>
+      <p>&nbsp;</p>
+      <p>注意事項：<br />
+      <ul>
+        <li>開啟後請冷藏。<br />
+        <li>請倒入杯中後飲用。<br />
+        <li>開啟後不要將 EM-X Gold　倒入瓶蓋中，　如有些 EM-X Gold 留在瓶蓋上請擦乾淨後再拴上,避免造成成份變質或壞掉。<br />
+        <li>由於是全天然成分, 可能每批會有些微的頻色,味道差異,但這並不會影響其品質。<br />
+        <li>開瓶後最好是一個月內飲用完畢。<br />
+        <li>製造過程中已高溫殺菌。<br />
+        <li>偶爾因運送過程中之高溫和其他不可控制的因素, 會造成產品變質, 如開瓶後有異味,表示已損壞,請勿飲用,請至購買地點免費換取新品。<br />
+      </ul>
+      </p>
+      <p>&nbsp;</p>
+      <p>成份:</p>
+      <p>水, 發酵抽出物(糖蜜,酵母抽出物, 珊瑚鈣, 和鹽滷 (天然海水基底氯化鎂) 混合)。</p>
+      <p>&nbsp;</p>
+      <p>有效期限: </p>
+      <p>標示於瓶上 (西元年.月.日)</p>
+              <p><br />
+                容量: 500 ml<br />
+                </p>
+              <p>&nbsp;</p>
+      <p>原產地: 日本</p>
+              <p>&nbsp;</p>
+              <p>営養標示 (每 100 毫升 (ml) 內含有:</p>
+      <p>熱量		0 大卡<br />
+                蛋白質			0 g<br />
+                脂肪		     	0 g<br />
+                飽和脂肪			0 g<br />
+                反式脂肪			0 g<br />
+                碳水化合物		0 g<br />
+                鈉	       20 毫克(mg)</p>
+    </div>
 	
 	<!-- InstanceEndEditable -->
 	

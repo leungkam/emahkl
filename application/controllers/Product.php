@@ -20,14 +20,15 @@ class Product extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!'.htmlspecialchars($_GET["lastname"]);
-		//$this->load->view('welcome_message');
+		$this->load->view('Product');
 	}
+
+    /*
     public function shoes($sandals, $id)
-    {
-        echo $sandals;
+	{
+		echo $sandals;
 		echo '<br>';
-        echo $id;
-    }
-	
+		echo $id;
+	}
+	*/
 }

@@ -24,7 +24,7 @@ class Welcome extends CI_Controller {
 			echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!';
 		}
 		
-		$this->load->view('welcome_message');
+		$this->load->view('main');
 
 		
 	}
