@@ -63,7 +63,7 @@
     <div class="welcome">
               <p><img src="./images/emx-gold.JPG" width="192" height="338" /></p>
               <p>&nbsp;</p>
-              <p>產品名稱：EM-X Gold 飲料水<br />
+              <h1>產品名稱：EM-X Gold 飲料水</h1>
               </p>
               <p>&nbsp;</p>
               <p>使用說明：　<br />

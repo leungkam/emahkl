@@ -62,7 +62,7 @@
 	<div class="heading">連結 - Links</div>
     <div class="welcome">
         <p>&nbsp;</p>
-        <p>推薦網站: </p>
+        <h1>推薦網站: </h1>
         <p>&nbsp;</p>
 		<li>EM Research Organization (English)</li>
         <p>Website: <a target="_blank" href=http://www.emrojapan.com/>http://www.emrojapan.com/ </a> </p>
