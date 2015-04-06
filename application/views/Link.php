@@ -71,6 +71,8 @@
         <li>株式会社EM研究机构南京代表处</li>
         <p>Website: <a target="_blank" href=http://www.emrochina.com/>http://www.emrochina.com/ </a> </p>
         <p>&nbsp;</p>
+        <li>APNAN, Asia Pacific Natural Agriculture Network </li>
+        <p>Website: <a target="_blank" href=http://www.apnan.org/>http://www.apnan.org/</a> </p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
