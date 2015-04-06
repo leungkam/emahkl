@@ -61,7 +61,8 @@
 	
 	<div class="heading">連結 Links - 推薦網站　</div>
     <div class="welcome">
-
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
         <li>EM Research Organization (English)</li>
         <p>Website: <a target="_blank" href=http://www.emrojapan.com/>http://www.emrojapan.com/ </a> </p>
         <p>&nbsp;</p>
@@ -73,8 +74,6 @@
         <p>&nbsp;</p>
         <li>APNAN, Asia Pacific Natural Agriculture Network </li>
         <p>Website: <a target="_blank" href=http://www.apnan.org/>http://www.apnan.org/</a> </p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
