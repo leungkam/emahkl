@@ -59,10 +59,10 @@
     
     <!-- InstanceBeginEditable name="EditRegion1" -->
 	
-	<div class="heading">連結 Links - 推薦網站　</div>
+	<div class="heading">連結 - Links</div>
     <div class="welcome">
         <p>&nbsp;</p>
-        <p>&nbsp;</p>
+        <p>推薦網站: </p>
         <li>EM Research Organization (English)</li>
         <p>Website: <a target="_blank" href=http://www.emrojapan.com/>http://www.emrojapan.com/ </a> </p>
         <p>&nbsp;</p>
