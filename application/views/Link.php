@@ -62,25 +62,21 @@
 	<div class="heading">連結 Links - 推薦網站　</div>
     <div class="welcome">
 
+        <li>EM Research Organization (English)</li>
+        <p>Website: <a target="_blank" href=http://www.emrojapan.com/>http://www.emrojapan.com/ </a> </p>
+        <p>&nbsp;</p>
+        <li>EM Research Organization (Japanese)</li>
+        <p>Website: <a target="_blank" href=http://www.emro.co.jp/>http://www.emro.co.jp/ </a> </p>
+        <p>&nbsp;</p>
+        <li>株式会社EM研究机构南京代表处</li>
+        <p>Website: <a target="_blank" href=http://www.emrochina.com/>http://www.emrochina.com/ </a> </p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-
+    
     </div>
 	
 	<!-- InstanceEndEditable -->
