@@ -122,7 +122,7 @@
 
 <div class="clear"></div>
 <div id="contentBottom"></div>
-<div class="copy">Copyright 2014 EM Association Hong Kong Limited</div>
+<div class="copy">Copyright 2015 EM Association Hong Kong Limited</div>
 
 
 </body>
