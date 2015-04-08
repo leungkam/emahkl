@@ -55,7 +55,7 @@
       <p>&nbsp;</p>
          <div class="clear"></div>
     </div>
-    <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+    <!-- InstanceEndRepeatEntry -->
     
     <!-- InstanceBeginEditable name="EditRegion1" -->
 	
